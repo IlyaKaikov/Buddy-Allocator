@@ -1,4 +1,4 @@
-malloc_3.cpp is an implementation of a Linux Buddy memory allocator.
+malloc_3.cpp is an implementation of a Linux buddy memory allocator.
 
 This was done as part of an Operating Systems course.
 
